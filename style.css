@@ -5,11 +5,11 @@
 }
 
 :root {
-
     font-size: 62.5%;
 
     --ff-primary: 'Poppins', sans-serif;
     --text-color: #303030;
+
     --hue: 194;
     --primary-color: hsl(var(--hue), 100%, 63%);
 }
@@ -17,8 +17,7 @@
 body {
     font-size: 1.6rem;
     color: var(--text-color);
-    background-color: rgb(246, 255, 254);
-
+    background-color: rgb(222, 255, 233);
 }
 
 body * {
@@ -26,7 +25,6 @@ body * {
 }
 
 .sr-only {
-
     position: absolute;
     width: 1px;
     height: 1px;
@@ -38,7 +36,6 @@ body * {
     border-width: 0;
 }
 
-
 #app {
     padding: 2rem;
     max-width: 500px;
@@ -49,6 +46,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
     margin: 2.5rem 0;
 }
 
@@ -75,17 +73,19 @@ header h1 {
     height: 3.2rem;
     border: none;
     padding: 0 1rem;
+
     cursor: pointer;
 }
 
 .search button:hover {
-    filter: brightness(1.1);
+    filter: brightness(1.1)
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    box-shadow: 0 0 .4rem .2rem rgba(0, 0, 0, 0.3);
+
+    box-shadow: 0 1rem 2rem -1rem rgba(0, 0, 0, 0.3);
 }
 
 table * {
@@ -95,26 +95,32 @@ table * {
 
 table th {
     background: var(--primary-color);
-    text-align: left;
-    font-weight: normal;
-    padding: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+    box-shadow: black 10rem;
 }
+
 
 table th:first-child {
     border-top-left-radius: .4rem;
 }
-
 
 table th:last-child {
     border-top-right-radius: .4rem;
 }
 
 table tr:nth-child(even) {
-    background: #ffffff;
+    background: #eee;
 }
 
 table tr:nth-child(odd) {
-    background: #f1fffe;
+    background: #ddd;
+}
+
+table td {
+    padding: 2rem;
+    text-align: center;
 }
 
 td.user {
@@ -124,14 +130,10 @@ td.user {
 }
 
 
-table td {
-    padding: 1.5rem;
-    text-align: left;
-}
-
 td.user img {
-    width: 6rem;
-    height: 6rem;
+    width: 5rem;
+    height: 5rem;
+
     object-fit: cover;
     border-radius: 50%;
 }
@@ -147,11 +149,8 @@ td.user a p {
 td .remove {
     background: none;
     border: none;
-}
 
-td .remove {
-    background: none;
-    border: none;
     color: red;
+
     cursor: pointer;
 }
