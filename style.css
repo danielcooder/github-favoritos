@@ -17,7 +17,7 @@
 body {
     font-size: 1.6rem;
     color: var(--text-color);
-    background-color: rgb(222, 255, 233);
+    background: radial-gradient(circle, #29d4ff, #3037ff);
 }
 
 body * {
@@ -62,7 +62,7 @@ header h1 {
 
 .search input {
     height: 3.2rem;
-    border: 1px solid #ccc;
+    border: 1px solid #e3fffd;
     border-radius: .4rem 0 0 .4rem;
     padding: 0 .8rem;
 }
@@ -94,7 +94,7 @@ table * {
 }
 
 table th {
-    background: var(--primary-color);
+    background: #66d9ff;
     text-align: center;
     font-weight: bold;
     padding: 2rem;
@@ -103,19 +103,19 @@ table th {
 
 
 table th:first-child {
-    border-top-left-radius: .4rem;
+    border-top-left-radius: .6rem;
 }
 
 table th:last-child {
-    border-top-right-radius: .4rem;
+    border-top-right-radius: .6rem;
 }
 
 table tr:nth-child(even) {
-    background: #eee;
+    background: #baeaff;
 }
 
 table tr:nth-child(odd) {
-    background: #ddd;
+    background: #f3fdff;
 }
 
 table td {
