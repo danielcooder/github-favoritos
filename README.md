@@ -14,9 +14,10 @@ Esta é uma plataforma interativa desenvolvida com HTML, JavaScript e CSS. A pri
 
 - Adicione contatos do GitHub à sua lista de favoritos.
   
-Veja informações detalhadas sobre seus usuários favoritos do GitHub.
-Remova contatos da sua lista de favoritos conforme necessário.
-Indica quando um usuário não foi encontrado no GitHub.
+- Veja informações detalhadas sobre seus usuários favoritos do GitHub.
+- Remova contatos da sua lista de favoritos conforme necessário.
+- Indica quando um usuário não foi encontrado no GitHub.
+  
 Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
 
 ![Site GitHub Favoritos](
