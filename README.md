@@ -20,3 +20,13 @@ Indica quando um usuário não foi encontrado no GitHub.
 Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
 
 Sinta-se à vontade para explorar e aproveitar o gerenciamento de seus contatos do GitHub de forma fácil e eficiente com esta plataforma.
+
+
+<br>
+
+## :mag_right:Como Usar
+Explore a navegação e visualização do site por meio do seguinte link: <br>
+
+
+
+
