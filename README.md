@@ -27,6 +27,8 @@ Sinta-se à vontade para explorar e aproveitar o gerenciamento de seus contatos 
 ## :mag_right:Como Usar
 Explore a navegação e visualização do site por meio do seguinte link: <br>
 
+https://danielcooder.github.io/Github-Favoritos/github-favoritos/
+
 
 
 
