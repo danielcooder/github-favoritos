@@ -30,5 +30,19 @@ Explore a navegação e visualização do site por meio do seguinte link: <br>
 https://danielcooder.github.io/Github-Favoritos/github-favoritos/
 
 
+## :hammer_and_pick:Tecnologias Utilizadas:
+
+- HTML5
+- CSS
+- JavaScript
+
+  ## :pushpin:Contribuições
+  
+Sinta-se à vontade para colaborar com aprimoramentos, correções de bugs ou adição de novos recursos a este projeto. Basta realizar um fork do repositório, criar sua própria branch e enviar um pull request. Valorizamos e agradecemos a sua contribuição!
+
+<h2>✒️ Autor </h2>
+<strong>Daniel de Oliveira</strong>
+
+
 
 
