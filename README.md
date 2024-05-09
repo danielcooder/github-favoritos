@@ -8,7 +8,7 @@ Bem-vindo ao projeto Gerenciador de Contatos do GitHub!
 Esta é uma plataforma interativa desenvolvida com HTML, JavaScript e CSS. A principal funcionalidade desta plataforma é a capacidade de gerenciar seus contatos do GitHub diretamente do aplicativo. Você pode adicionar usuários reais do GitHub à sua lista de favoritos, que busca o nome, repositórios e número de seguidores do GitHub através da API.
 
 ![Site GitHub Favoritos](
-/img/github-fav.PNG)
+/img/github-remov.PNG)
 
  # :closed_book: Principais Recursos
 
@@ -19,8 +19,8 @@ Remova contatos da sua lista de favoritos conforme necessário.
 Indica quando um usuário não foi encontrado no GitHub.
 Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
 
-Sinta-se à vontade para explorar e aproveitar o gerenciamento de seus contatos do GitHub de forma fácil e eficiente com esta plataforma.
-
+![Site GitHub Favoritos](
+/img/github-fav.PNG)
 
 <br>
 
