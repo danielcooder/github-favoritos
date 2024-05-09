@@ -1,7 +1,7 @@
 
 #  Github Favoritos
 
--Gerenciador de Contatos do GitHub
+- Gerenciador de Contatos do GitHub
 
 Bem-vindo ao projeto Gerenciador de Contatos do GitHub!
 
