@@ -10,7 +10,8 @@ Esta é uma plataforma interativa desenvolvida com HTML, JavaScript e CSS. A pri
 ![Site GitHub Favoritos](
 /img/github-fav.PNG)
 
-Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
+Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido e clicar em "+". <br>
+O sistema informará se o usuário foi encontrado ou não. Se encontrado ele será adicionado logo em seguida a lista.
 
  # :closed_book: Principais Recursos
 
