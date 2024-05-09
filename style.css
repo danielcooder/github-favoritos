@@ -17,7 +17,7 @@
 body {
     font-size: 1.6rem;
     color: var(--text-color);
-    background: radial-gradient(circle, #29d4ff, #3037ff);
+    background-color: #c1ffe3;
 }
 
 body * {
@@ -94,7 +94,7 @@ table * {
 }
 
 table th {
-    background: #66d9ff;
+    background: var(--primary-color);
     text-align: center;
     font-weight: bold;
     padding: 2rem;
@@ -131,8 +131,8 @@ td.user {
 
 
 td.user img {
-    width: 5rem;
-    height: 5rem;
+    width: 6rem;
+    height: 6rem;
 
     object-fit: cover;
     border-radius: 50%;
