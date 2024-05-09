@@ -10,6 +10,8 @@ Esta é uma plataforma interativa desenvolvida com HTML, JavaScript e CSS. A pri
 ![Site GitHub Favoritos](
 /img/github-fav.PNG)
 
+Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
+
  # :closed_book: Principais Recursos
 
 - Adicione contatos do GitHub à sua lista de favoritos.
@@ -18,7 +20,7 @@ Esta é uma plataforma interativa desenvolvida com HTML, JavaScript e CSS. A pri
 - Remova contatos da sua lista de favoritos conforme necessário.
 - Indica quando um usuário não foi encontrado no GitHub.
   
-Para adicionar um contato, basta inserir o nome de usuário correto no campo fornecido. O sistema informará se o usuário foi encontrado ou não.
+Caso tenha interesse em remover o usuario que foi adicionado basta clicar no "x" vermelho e aparecerá essa mensagem de confirmação de exclusão do mesmo conforme abaixo:
 
 ![Site GitHub Favoritos](
 /img/github-remov.PNG)
