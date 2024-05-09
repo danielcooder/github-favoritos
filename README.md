@@ -20,7 +20,7 @@ Para adicionar um contato, basta inserir o nome de usuário correto no campo for
 - Remova contatos da sua lista de favoritos conforme necessário.
 - Indica quando um usuário não foi encontrado no GitHub.
   
-Caso tenha interesse em remover o usuario que foi adicionado basta clicar no "x" vermelho e aparecerá essa mensagem de confirmação de exclusão do mesmo conforme abaixo:
+Caso tenha interesse em remover algum usuário que foi adicionado basta clicar no "x" vermelho e aparecerá essa mensagem de confirmação de exclusão do mesmo conforme abaixo:
 
 ![Site GitHub Favoritos](
 /img/github-remov.PNG)
