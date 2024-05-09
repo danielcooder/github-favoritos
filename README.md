@@ -1,5 +1,5 @@
 
-#  Github Favoritos
+#  ➕❤️ Github Favoritos
 
 - Gerenciador de Contatos do GitHub
 
