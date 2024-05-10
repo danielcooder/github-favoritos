@@ -1,5 +1,5 @@
 
-#  ➕❤️ Github Favoritos
+#  ❤️ Github Favoritos
 
 - Gerenciador de Contatos do GitHub
 
@@ -31,7 +31,7 @@ Caso tenha interesse em remover algum usuário que foi adicionado talvez de form
 ## :mag_right:Como Usar
 Explore a navegação e visualização do site por meio do seguinte link: <br>
 
-https://danielcooder.github.io/Github-Favoritos/github-favoritos/
+[https://danielcooder.github.io/Github-Favoritos/github-favoritos/](https://danielcooder.github.io/github-favoritos/)
 
 
 ## :hammer_and_pick:Tecnologias Utilizadas:
