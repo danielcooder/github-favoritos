@@ -40,7 +40,7 @@ Explore a navegação e visualização do site por meio do seguinte link: <br>
 - CSS
 - JavaScript
 
-  ## :pushpin:Contribuições
+## :pushpin:Contribuições
   
 Sinta-se à vontade para colaborar com aprimoramentos, correções de bugs ou adição de novos recursos a este projeto. Basta realizar um fork do repositório, criar sua própria branch e enviar um pull request. Valorizamos e agradecemos a sua contribuição!
 
